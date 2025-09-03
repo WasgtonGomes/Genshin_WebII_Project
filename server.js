@@ -1,6 +1,7 @@
  // Importando os módulos necessários
 const express = require('express');
-const mysql = require('mysql');
+const axios = require('axios');
+const mysql = require('mysql2');
 const bodyParser = require('body-parser');
 const path = require('path');
 const fetch = require('node-fetch'); // Adicionado para fazer a solicitação HTTP
