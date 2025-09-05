@@ -112,8 +112,6 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 ## 🔗 Estrutura do Projeto
 
 
-## 🔗 Estrutura do Projeto
-
 ---
 
 ## ⚡ Considerações Finais
