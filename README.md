@@ -27,8 +27,8 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 | **Node.js** | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | Back-end, gerenciamento de rotas, manipulação de dados |
 | **Express.js** | ![Express](https://img.icons8.com/ios/50/000000/express-js.png) | Framework para servidor web e endpoints |
 | **MySQL** | ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) | Banco de dados relacional |
-| **Axios** | ![Axios](https://img.icons8.com/ios/50/000000/axios.png) | Consumo de APIs externas |
-| **node-fetch** | ![Fetch](https://img.icons8.com/ios/50/000000/fetch.png) | Requisições HTTP |
+| **Axios** | ![Axios](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/axios.svg) | Consumo de APIs externas |
+| **node-fetch** | ![Node-Fetch](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/node-dot-js.svg) | Requisições HTTP |
 | **@vitalets/google-translate-api** | ![Google Translate](https://img.icons8.com/ios-filled/50/000000/google-translate.png) | Tradução automática de dados |
 | **HTML5** | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | Estrutura das páginas |
 | **CSS3** | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | Estilização e layout |
