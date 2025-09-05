@@ -71,7 +71,7 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 ![Cadastro 02](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character02.PNG)  
 ![Cadastro 03](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character03.PNG)
 ![Cadastro 04](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character04.PNG)
-![Cadastro 05](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character06_check_registration.PNG)
+![Cadastro 06](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character06_check_registration.PNG)
 
 ---
 
