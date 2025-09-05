@@ -65,24 +65,18 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 ---
 
 ### 2️⃣ Cadastro de Personagem (`formulario.html`)  
-- **Função:** Criar personagens com atributos detalhados  
+- **Função:** Criar personagens com atributos detalhados e Confrmação de cadastro 
 - **Prints:**  
 ![Cadastro 01](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character01.PNG)  
 ![Cadastro 02](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character02.PNG)  
 ![Cadastro 03](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character03.PNG)
 ![Cadastro 04](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character04.PNG)
+![Confirmação](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character05_registration_confirmation.PNG)
 ![Cadastro 06](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character06_check_registration.png)
 
 ---
 
-### 3️⃣ Confirmação de Cadastro  
-- **Função:** Feedback visual de sucesso no cadastro de personagem  
-- **Print:**  
-![Confirmação](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_registration_character05_registration_confirmation.PNG)
-
----
-
-### 4️⃣ Consulta de Personagens (`tabelaCadastrados.html`)  
+### 3️⃣ Consulta de Personagens (`tabelaCadastrados.html`)  
 - **Função:** Visualizar personagens cadastrados  
 - **Prints:**  
 ![Consulta 01](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_Check_registration01.PNG)  
@@ -90,13 +84,13 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 
 ---
 
-### 5️⃣ Integração com API (`personagensAPI.html`)  
+### 4️⃣ Integração com API (`personagensAPI.html`)  
 - **Função:** Exibir personagens via API externa com tradução automática  
 - **Print:** *(sem print fornecido)*
 
 ---
 
-### 6️⃣ Equipe de Desenvolvimento (`equipeDesenvolvimento.html`)  
+### 5️⃣ Equipe de Desenvolvimento (`equipeDesenvolvimento.html`)  
 - **Função:** Apresenta integrantes, funções e responsabilidades  
 - **Prints:**  
 ![Equipe 01](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_development_team01.PNG)  
@@ -104,7 +98,7 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 
 ---
 
-### 7️⃣ Descrição do Projeto (`descricao.html`)  
+### 6️⃣ Descrição do Projeto (`descricao.html`)  
 - **Função:** Explica objetivos, tecnologias e funcionalidades  
 - **Print:**  
 ![Descrição](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_Description01.PNG)
