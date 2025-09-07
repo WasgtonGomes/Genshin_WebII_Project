@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ProgetoWeb# 🎮 Genshin Impact Web II Project
 
 ## 📌 Objetivo do Projeto
@@ -203,10 +202,10 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 
 ## 🔗 Estrutura do Projeto
 
-<<<<<<< HEAD
+
 =======
 
->>>>>>> 968ce1bcbfbde3957eaa5812ac2f15598d87fc59
+
 ---
 
 ## ⚡ Considerações Finais
