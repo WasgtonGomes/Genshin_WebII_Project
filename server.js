@@ -183,7 +183,7 @@ app.get('/deletarVisaoElementalNula', (req, res) => {
         res.json({ message: 'Personagens deletados com sucesso', affectedRows: result.affectedRows });
     });
 });*/
-
+//lsa
 
 // Iniciando o servidor
 app.listen(3000, () => {
