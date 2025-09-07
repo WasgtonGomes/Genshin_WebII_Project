@@ -56,7 +56,37 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 
 ---
 
+# Explicação Detalhada do Código do Projeto Genshin Impact Web II
 
+---
+
+## 🔹 Conexão com Banco de Dados
+
+- **`mysql.createConnection`**  
+  Cria uma conexão direta com o **banco de dados MySQL**.
+
+- **`host`, `user`, `password`, `database`**  
+  Informações necessárias para acessar o banco.
+
+- **`connection.connect`**  
+  Testa e estabelece a conexão; se houver erro, o programa lança uma exceção.
+
+- **`console.log`**  
+  Confirma visualmente que a conexão foi estabelecida.
+
+```sh
+const connection = mysql.createConnection({
+   host: 'localhost',
+   user: 'root',
+   password: 'root',
+   database: 'genshin_impact'
+});
+
+connection.connect((err) => {
+    if(err) throw err;
+    console.log('Conexão com o MySQL estabelecida');
+});
+```
 
 ## 🖼️ Páginas do Projeto
 
