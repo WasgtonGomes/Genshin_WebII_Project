@@ -56,6 +56,8 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 
 ---
 
+
+
 ## 🖼️ Páginas do Projeto
 
 ### 1️⃣ Tela Inicial (`inicial.html`)  
