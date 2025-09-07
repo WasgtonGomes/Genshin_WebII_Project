@@ -124,7 +124,7 @@ Este projeto combina **desenvolvimento web full-stack**, integração com **APIs
 
 ## 🔗 Estrutura do Projeto
 
-```bash
+```sh
 Genshin_WebII_Project/
 ├── 📂 public/               # Arquivos públicos acessíveis via navegador
 │   ├── 📂 CSS/              # Folhas de estilo
@@ -171,4 +171,6 @@ Genshin_WebII_Project/
 ├── Dados completos api genshim impact.png
 ├── destbord genshim impact.png
 └── README.md                # Documentação do projeto
+```
+
 
