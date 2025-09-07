@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como **atividade final da disciplina Programação
 O sistema permite o **cadastro, consulta e gerenciamento de personagens do jogo Genshin Impact**, utilizando dados inseridos pelo usuário e informações obtidas via **API externa**.  
 
 Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com **banco de dados MySQL**, consumo de **APIs externas** e boas práticas de **validação e usabilidade**.
->>>>>>> 968ce1bcbfbde3957eaa5812ac2f15598d87fc59
+
 
 ---
 
@@ -28,12 +28,12 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 - JavaScript  
 - Bootstrap 4  
 - Integração com banco de dados relacional e APIs externas  
->>>>>>> 968ce1bcbfbde3957eaa5812ac2f15598d87fc59
+
 
 ---
 
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
-<<<<<<< HEAD
+
 - **Node.js** — Back-end, gerenciamento de rotas, manipulação de dados e integração com API.
 - **Express.js** — Framework para criação de servidor web e gerenciamento de endpoints.
 - **MySQL** — Banco de dados relacional para armazenamento e consulta de informações dos personagens.
@@ -55,7 +55,7 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 | **CSS3** | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | Estilização e layout |
 | **JavaScript** | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | Interatividade e lógica |
 | **Bootstrap 4** | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | Responsividade e componentes visuais |
->>>>>>> 968ce1bcbfbde3957eaa5812ac2f15598d87fc59
+
 
 ---
 
@@ -191,13 +191,13 @@ Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com 
 ![Equipe 02](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_development_team02.PNG)
 
 ---
-
+ 
 ### 6️⃣ Descrição do Projeto (`descricao.html`)  
 - **Função:** Explica objetivos, tecnologias e funcionalidades  
 - **Print:**  
 ![Descrição](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_Description01.PNG)
 ![Descrição](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_Description02.PNG)
->>>>>>> 968ce1bcbfbde3957eaa5812ac2f15598d87fc59
+
 ---
 
 ## 🔗 Estrutura do Projeto
