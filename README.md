@@ -1,4 +1,4 @@
-# 🎮 Genshin Impact Web II Project
+# 🎮 Genshin Impact Web II Project 
 
 ## 📌 Objetivo do Projeto
 Este projeto foi desenvolvido como **atividade final da disciplina Programação Web II** (IFRO - Ji-Paraná) com o objetivo de aplicar de forma prática os conceitos aprendidos durante o semestre.  
