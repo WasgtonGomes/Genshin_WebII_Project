@@ -145,7 +145,7 @@ connection.connect((err) => {
 ![Descrição 01](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_Description01.PNG)  
 ![Descrição 02](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_Description02.PNG)
 
----
+--- 
 
 ## ⚡ Considerações Finais
 Este projeto combina **desenvolvimento web full-stack**, integração com **APIs externas** e manipulação de **banco de dados**, proporcionando uma **experiência completa de criação e gerenciamento de conteúdo**. É um exemplo de aplicação prática dos conceitos ensinados na disciplina de **Programação Web II**, com foco em usabilidade, organização e desempenho.
