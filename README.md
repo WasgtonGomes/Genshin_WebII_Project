@@ -104,7 +104,7 @@ connection.connect((err) => {
 ![Home Menu Consulta](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_Home_menu_query.png)  
 ![Home Menu Cadastro](https://github.com/WasgtonGomes/Genshin_WebII_Project/blob/main/Prints/Page_Home_register_menu.png)
 
----
+--- 
 
 ### 3️⃣ Cadastro de Personagem (`formulario.html`)  
 - **Função:** Criar personagens personalizados com atributos detalhados.  
