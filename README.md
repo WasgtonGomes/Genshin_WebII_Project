@@ -1,6 +1,6 @@
 # 🎮 Genshin Impact Web II Project 
   
-## 📌 Objetivo do Projeto
+## 📌 Objetivo do Projeto 
 Este projeto foi desenvolvido como **atividade final da disciplina Programação Web II** (IFRO - Ji-Paraná) com o objetivo de aplicar de forma prática os conceitos aprendidos durante o semestre.  
 
 O sistema permite o **cadastro, consulta e gerenciamento de personagens do jogo Genshin Impact**, utilizando dados inseridos pelo usuário e informações obtidas via **API externa**.  
