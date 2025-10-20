@@ -7,7 +7,7 @@ O sistema permite o **cadastro, consulta e gerenciamento de personagens do jogo 
 
 Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com **banco de dados MySQL**, consumo de **APIs externas** e boas práticas de **validação e usabilidade**.
 
----    
+---     
 
 ## 🏫 Disciplina
 **Programação Web II** — Aplicação prática de conceitos avançados de desenvolvimento web, incluindo:
