@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como **atividade final da disciplina Programação
 O sistema permite o **cadastro, consulta e gerenciamento de personagens do jogo Genshin Impact**, utilizando dados inseridos pelo usuário e informações obtidas via **API externa**.  
   
 Demonstra conhecimentos em **desenvolvimento web full-stack**, integração com **banco de dados MySQL**, consumo de **APIs externas** e boas práticas de **validação e usabilidade**.
-  
+
 ---  
 
 ## 🏫 Disciplina
