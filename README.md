@@ -1,7 +1,7 @@
  # 🎮 Genshin Impact Web II Project    
        
 ## 📌 Project Objective   
-This project was developed as the **final assignment of the Web Programming II course** (IFRO – Ji-Paraná) with the goal of practically applying the concepts learned throughout the semester.    
+This project was developed as the **final assignment of the Web Programming II course** (IFRO – Ji-Paraná) with the goal of practically applying the concepts learned throughout the semester.   
       
 The system allows **registration, consultation, and management of Genshin Impact characters**, using user-provided data and information obtained through an **external API.**  
   
